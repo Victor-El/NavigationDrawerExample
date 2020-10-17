@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NavigationDrawerExample</string>
+
+    <string-array name="nav_drawer">
+        <item>Home</item>
+        <item>Dashboard</item>
+        <item>Profile</item>
+    </string-array>
+</resources>
